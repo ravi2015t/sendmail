@@ -1,0 +1,12 @@
+{
+    "editor.fontFamily": "'Ubuntu Mono'",
+    "editor.fontSize": 16,
+    "editor.fontWeight": "normal",
+    "workbench.preferredDarkColorTheme": "Default Light+",
+    "editor.lineHeight": 1.4,
+    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.fontFamily": "'Ubuntu Mono'",
+    "workbench.colorTheme": "GitHub Dark Default",
+    "editor.formatOnSave": true,
+    "files.autoSave": "afterDelay"
+}
